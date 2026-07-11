@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.9.zip",
-  "sha256": "ADDEE6B906E37F4465792927D24CFE94A9415D74B6C307D52325264C1998E835",
-  "notes": "Pencere standart Windows cercevesiyle acilir. Kapatinca veya kucultunce uygulama varsayilan olarak sag alt sistem tepsisine iner ve arka planda calismaya devam eder. Ayarlar ekranina bu davranisi acip kapatmak icin secenek eklendi.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.10.zip",
+  "sha256": "4D99E5071A6E6855B418AC8B54438B27A62B02A9BDCF484693C1614D4C34DF9D",
+  "notes": "Lisans zorunlulugu kullanici ayari olmaktan cikarildi ve her zaman acik hale getirildi. Dogrula artik GitHub lisans listesini gercekten kontrol eder; listeden silinen mevcut key yerel cache'ten temizlenir. Ayni key dogrulamada sureyi yeniden baslatmaz, ilk aktivasyon bitis tarihi korunur.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
