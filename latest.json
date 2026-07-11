@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.3.zip",
-  "sha256": "E980B9A6F302E8BA55EBF1207BEBC53DA88123E7A62F9FEACA7727E732DB3308",
-  "notes": "Header bara buyuk WhatsApp lisans uyarisi eklendi. Alt status barda WhatsApp iletisim numarasi kalici olarak gosterilir.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.4.zip",
+  "sha256": "4132A909A210EDFA013FD56A0E161D700ECC47138624801402DF3A243A429D05",
+  "notes": "WhatsApp lisans banneri headerin tamamini kaplayacak sekilde buyutuldu. Lisans aktifken baslik yukseltme mesajina doner.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
