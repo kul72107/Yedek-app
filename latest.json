@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.1.zip",
-  "sha256": "F1C599E6528668B470C42C0BA30D2B8AD03C5DF494920A8492253B3A38E8763F",
-  "notes": "Lisans iptal kontrolu eklendi. Uygulama acilista ve yedekleme oncesinde revoked.txt kontrol eder; son iptal kontrolu 24 saati gecerse internet gelene kadar yedekleme kilitlenir.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.2.zip",
+  "sha256": "2658563A337083E941344D0BAB10EE3195E3A3A9FB29753CA951BED059AC3683",
+  "notes": "Lisans iptal kontrolu artik uygulama acikken her saat tekrar eder. Revoked lisans yakalanirsa yerel lisans cache kaydi silinir ve uygulama lisans yok durumuna duser.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
