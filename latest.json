@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.8.zip",
-  "sha256": "EDC3A792D8F058C92D67393DD8549F51F0DE60A1EF69913AD7F5E44438658D30",
-  "notes": "Alt durum cubuguna kalan lisans gunu eklendi. Aciklama kutulari icin ac/kapat anahtari eklendi. Ana sayfadaki eski INI butonu daha anlasilir metne cevrildi.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.9.zip",
+  "sha256": "ADDEE6B906E37F4465792927D24CFE94A9415D74B6C307D52325264C1998E835",
+  "notes": "Pencere standart Windows cercevesiyle acilir. Kapatinca veya kucultunce uygulama varsayilan olarak sag alt sistem tepsisine iner ve arka planda calismaya devam eder. Ayarlar ekranina bu davranisi acip kapatmak icin secenek eklendi.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
