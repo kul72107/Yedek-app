@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.4.zip",
-  "sha256": "4132A909A210EDFA013FD56A0E161D700ECC47138624801402DF3A243A429D05",
-  "notes": "WhatsApp lisans banneri headerin tamamini kaplayacak sekilde buyutuldu. Lisans aktifken baslik yukseltme mesajina doner.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.5.zip",
+  "sha256": "623A0F8B2435521EB8C7FD810038E01C1D0D00F159EB308559524797EF76706C",
+  "notes": "Guncelleme ZIP indirme yolu benzersiz hale getirildi. Kilitli kalan eski temp ZIP dosyalari artik yeni guncellemeyi engellemez.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
