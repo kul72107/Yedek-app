@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "mandatory": true,
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.0.zip",
+  "sha256": "5A2308781FBA1B0A6DD37B23379327306C9B717211E2F94E8CC89CF2AC196F72",
+  "notes": "Ilk otomatik guncelleme paketi. Uygulama bu surumde guncelleme manifestini kontrol eder ve zorunlu patch geldiginde kendini updater ile yeniler.",
+  "publishedAt": "2026-07-11T00:00:00Z"
+}
