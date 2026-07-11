@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.2.zip",
-  "sha256": "2658563A337083E941344D0BAB10EE3195E3A3A9FB29753CA951BED059AC3683",
-  "notes": "Lisans iptal kontrolu artik uygulama acikken her saat tekrar eder. Revoked lisans yakalanirsa yerel lisans cache kaydi silinir ve uygulama lisans yok durumuna duser.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.3.zip",
+  "sha256": "E980B9A6F302E8BA55EBF1207BEBC53DA88123E7A62F9FEACA7727E732DB3308",
+  "notes": "Header bara buyuk WhatsApp lisans uyarisi eklendi. Alt status barda WhatsApp iletisim numarasi kalici olarak gosterilir.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
