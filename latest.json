@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.0.zip",
-  "sha256": "5A2308781FBA1B0A6DD37B23379327306C9B717211E2F94E8CC89CF2AC196F72",
-  "notes": "Ilk otomatik guncelleme paketi. Uygulama bu surumde guncelleme manifestini kontrol eder ve zorunlu patch geldiginde kendini updater ile yeniler.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.1.zip",
+  "sha256": "F1C599E6528668B470C42C0BA30D2B8AD03C5DF494920A8492253B3A38E8763F",
+  "notes": "Lisans iptal kontrolu eklendi. Uygulama acilista ve yedekleme oncesinde revoked.txt kontrol eder; son iptal kontrolu 24 saati gecerse internet gelene kadar yedekleme kilitlenir.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
