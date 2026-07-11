@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.5.zip",
-  "sha256": "623A0F8B2435521EB8C7FD810038E01C1D0D00F159EB308559524797EF76706C",
-  "notes": "Guncelleme ZIP indirme yolu benzersiz hale getirildi. Kilitli kalan eski temp ZIP dosyalari artik yeni guncellemeyi engellemez.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.6.zip",
+  "sha256": "EF8E55DF4AB3F0AD0DBFACBEEEC4D3033528F9B1C633A51ED1D9C9448EF78149",
+  "notes": "Arayuzdeki butonlara, giris alanlarina, listelere, durum kartlarina ve temel bilgilendirme alanlarina aciklayici tooltip kutulari eklendi.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
