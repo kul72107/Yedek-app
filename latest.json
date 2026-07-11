@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.7.zip",
-  "sha256": "3AA9072EDFB051343BB3CB9CF09BDB3C38D770A5C75D9843316A0E621FAB212A",
-  "notes": "Tooltip genislik siniri kaldirildi, metinler artik kutu tarafindan yarida kesilmez. ResurrectSoft marka bilgisi pencere basligina, sol marka alanina ve dosya metadata bilgisine eklendi.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.8.zip",
+  "sha256": "EDC3A792D8F058C92D67393DD8549F51F0DE60A1EF69913AD7F5E44438658D30",
+  "notes": "Alt durum cubuguna kalan lisans gunu eklendi. Aciklama kutulari icin ac/kapat anahtari eklendi. Ana sayfadaki eski INI butonu daha anlasilir metne cevrildi.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
