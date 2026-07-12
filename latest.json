@@ -1,8 +1,8 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.20.zip",
-  "sha256": "960C8504491E638F60987AAFBB8FCE536B04FD40B0908932A1AE48F2EFFFBDF8",
-  "notes": "Gorsel assetler daha gorunur hale getirildi: arka plan pattern opakligi artirildi, zippattern ust katmani eklendi, kartlar hafif seffaflastirildi ve warning/failed/lisans/secret ikonlari ilgili alanlarda kullanildi.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.21.zip",
+  "sha256": "4D7A9D1809A2F387634972E463E2EA7EF1839CA411639E7E21717D941EE7221D",
+  "notes": "Gecici pattern ayar bari eklendi. Alt durum cubugundaki Pattern slider'i arka plan pattern opakligini canli degistirir ve secilen degeri gosterir.",
   "publishedAt": "2026-07-12T00:00:00Z"
 }
