@@ -1,8 +1,8 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "mandatory": true,
-  "url": "https://cdn.jsdelivr.net/gh/kul72107/Yedek-app/releases/ModernYedek-1.0.18.zip",
-  "sha256": "BA7A05AFE19F6E12DCF2107A9C5A1A8CA236EC94C06F453CCC846C30FAC11068",
-  "notes": "Premium mor tema korunarak guncelleme manifest URL'si branch cache sorunlarini azaltmak icin branchsiz jsDelivr endpointine tasindi.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.19.zip",
+  "sha256": "2498B29874DD2724C9F2015641F4238C206DDCDAFEC5117CA8DBDB4FE831FCE4",
+  "notes": "Premium mor tema korunarak guncelleme manifesti ve paket URL'si GitHub raw endpointine tasindi; CDN cache takilmalari sonraki surumlerde otomatik temizlenir.",
   "publishedAt": "2026-07-12T00:00:00Z"
 }
