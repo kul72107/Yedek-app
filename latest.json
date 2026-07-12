@@ -1,8 +1,8 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.21.zip",
-  "sha256": "4D7A9D1809A2F387634972E463E2EA7EF1839CA411639E7E21717D941EE7221D",
-  "notes": "Gecici pattern ayar bari eklendi. Alt durum cubugundaki Pattern slider'i arka plan pattern opakligini canli degistirir ve secilen degeri gosterir.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.22.zip",
+  "sha256": "480C7D0EC0CC846E1BF06268687802BB9D3193D90EC339DF2DF96A9E9E12B12D",
+  "notes": "Premium sidebar texture daha gorunur hale getirildi: sidebar gorseli saga hizalandi ve koyu overlay hafifletildi.",
   "publishedAt": "2026-07-12T00:00:00Z"
 }
