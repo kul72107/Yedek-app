@@ -1,8 +1,8 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "mandatory": true,
-  "url": "https://cdn.jsdelivr.net/gh/kul72107/Yedek-app@main/releases/ModernYedek-1.0.16.zip",
-  "sha256": "EDF170D2905153594D27A4E61DA7582E59568E9926FFF63391BDC2A4D2A217F3",
-  "notes": "Sag icerik alanina zippattern.png ile animasyonlu capraz pattern arka plan eklendi. Sol menudeki MYedek basligi ve navigasyon yazilari siyah outline etkisiyle daha belirgin yapildi.",
+  "url": "https://cdn.jsdelivr.net/gh/kul72107/Yedek-app@main/releases/ModernYedek-1.0.17.zip",
+  "sha256": "D83736A498BEB4FA0DF8A8CD093F6A1E6E27333B8E84C79656EA2F3C179B5ADC",
+  "notes": "Premium mor gorsel tema eklendi: yeni header banner, sidebar dokusu, hareketli pattern, dashboard ikonlari, empty-state gorselleri, dekoratif ayirici ve MYedek uygulama ikonu.",
   "publishedAt": "2026-07-12T00:00:00Z"
 }
