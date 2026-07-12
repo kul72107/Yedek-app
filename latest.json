@@ -1,8 +1,8 @@
 {
-  "version": "1.0.22",
-  "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.22.zip",
-  "sha256": "480C7D0EC0CC846E1BF06268687802BB9D3193D90EC339DF2DF96A9E9E12B12D",
-  "notes": "Premium sidebar texture daha gorunur hale getirildi: sidebar gorseli saga hizalandi ve koyu overlay hafifletildi.",
-  "publishedAt": "2026-07-12T00:00:00Z"
+    "version":  "1.0.23",
+    "mandatory":  true,
+    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.23.zip",
+    "sha256":  "833E6F81623454148B8E3904A388394DC1827DF641F92A0B0FC8B8839D5C63BC",
+    "notes":  "Sidebar texture opacity slider eklendi; maksimum deger sidebar dokusunu tam opak gosterir.",
+    "publishedAt":  "2026-07-12T07:18:22Z"
 }
