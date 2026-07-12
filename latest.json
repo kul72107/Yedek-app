@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.13.zip",
-  "sha256": "CF7AFF12696FD1CC88A4D347210AA8B7B1968FE6107949420C6D30E42358AF18",
-  "notes": "Lisans ve ayarlar sayfalarina ResurrectSoft banner gorseli ve 2026 telif hakki bildirimi eklendi.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.14.zip",
+  "sha256": "D9069AE3CE4147AC3EB350DF8744E33BA3D2EBA9FBBEB6AA058D5C362859040B",
+  "notes": "MYedek penceresi native Windows titlebar ile acilacak sekilde zorlandi. Pencere yeniden acildiginda ve ikinci acilis denendiginde standart titlebar/resize davranisi korunur.",
   "publishedAt": "2026-07-12T00:00:00Z"
 }
