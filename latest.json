@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.11.zip",
-  "sha256": "D5515B4D34F03EEEDD66060B0A47C383A0EDA53D7941ADAADD3D44F9DB921A40",
-  "notes": "Lisans kontrolu artik sadece process baslangicinda degil, pencere tekrar one geldiginde ve sag alttan geri acildiginda da calisir. Bu sayede uygulama trayde acik kalirken lisans iptali veya listeden silinmesi daha hizli yakalanir.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.12.zip",
+  "sha256": "EFF9EEC864C58ACB371BA33678F73004F5195E4ACA37F4232C3C26F03EFBDD81",
+  "notes": "Uygulamanin gorunen adi MYedek olarak guncellendi. Ayni anda yalnizca tek MYedek kopyasi acilabilir; ikinci acilis mevcut pencereyi one getirir. Guncelleme kontrolu baslangic, saatlik timer, trayden geri acilis, pencere one gelme ve yedekleme oncesinde calisir. Lisans paneline custom gun secenegi eklendi.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
