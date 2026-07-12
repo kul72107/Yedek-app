@@ -1,8 +1,8 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "mandatory": true,
-  "url": "https://cdn.jsdelivr.net/gh/kul72107/Yedek-app@main/releases/ModernYedek-1.0.17.zip",
-  "sha256": "D83736A498BEB4FA0DF8A8CD093F6A1E6E27333B8E84C79656EA2F3C179B5ADC",
-  "notes": "Premium mor gorsel tema eklendi: yeni header banner, sidebar dokusu, hareketli pattern, dashboard ikonlari, empty-state gorselleri, dekoratif ayirici ve MYedek uygulama ikonu.",
+  "url": "https://cdn.jsdelivr.net/gh/kul72107/Yedek-app/releases/ModernYedek-1.0.18.zip",
+  "sha256": "BA7A05AFE19F6E12DCF2107A9C5A1A8CA236EC94C06F453CCC846C30FAC11068",
+  "notes": "Premium mor tema korunarak guncelleme manifest URL'si branch cache sorunlarini azaltmak icin branchsiz jsDelivr endpointine tasindi.",
   "publishedAt": "2026-07-12T00:00:00Z"
 }
