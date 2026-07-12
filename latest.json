@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.23",
+    "version":  "1.0.24",
     "mandatory":  true,
-    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.23.zip",
-    "sha256":  "833E6F81623454148B8E3904A388394DC1827DF641F92A0B0FC8B8839D5C63BC",
-    "notes":  "Sidebar texture opacity slider eklendi; maksimum deger sidebar dokusunu tam opak gosterir.",
-    "publishedAt":  "2026-07-12T07:18:22Z"
+    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.24.zip",
+    "sha256":  "6444B2B3488B2E18F9BD57C7CCBE72D6FE194B554ACBBE8BFBDEC81B52338FCC",
+    "notes":  "Lisans kontrolu performans ve guvenilirlik iyilestirmeleri: paralel liste indirme, HttpClient timeout, paylasilan baglanti, aktivasyon sinyali arka planda gonderme ve yerel lisans onbellegi temizleme butonu.",
+    "publishedAt":  "2026-07-12T08:19:04Z"
 }
