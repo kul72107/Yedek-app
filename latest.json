@@ -1,8 +1,8 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.12.zip",
-  "sha256": "EFF9EEC864C58ACB371BA33678F73004F5195E4ACA37F4232C3C26F03EFBDD81",
-  "notes": "Uygulamanin gorunen adi MYedek olarak guncellendi. Ayni anda yalnizca tek MYedek kopyasi acilabilir; ikinci acilis mevcut pencereyi one getirir. Guncelleme kontrolu baslangic, saatlik timer, trayden geri acilis, pencere one gelme ve yedekleme oncesinde calisir. Lisans paneline custom gun secenegi eklendi.",
-  "publishedAt": "2026-07-11T00:00:00Z"
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.13.zip",
+  "sha256": "CF7AFF12696FD1CC88A4D347210AA8B7B1968FE6107949420C6D30E42358AF18",
+  "notes": "Lisans ve ayarlar sayfalarina ResurrectSoft banner gorseli ve 2026 telif hakki bildirimi eklendi.",
+  "publishedAt": "2026-07-12T00:00:00Z"
 }
