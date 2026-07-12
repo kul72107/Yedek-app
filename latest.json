@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.10.zip",
-  "sha256": "4D99E5071A6E6855B418AC8B54438B27A62B02A9BDCF484693C1614D4C34DF9D",
-  "notes": "Lisans zorunlulugu kullanici ayari olmaktan cikarildi ve her zaman acik hale getirildi. Dogrula artik GitHub lisans listesini gercekten kontrol eder; listeden silinen mevcut key yerel cache'ten temizlenir. Ayni key dogrulamada sureyi yeniden baslatmaz, ilk aktivasyon bitis tarihi korunur.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.11.zip",
+  "sha256": "D5515B4D34F03EEEDD66060B0A47C383A0EDA53D7941ADAADD3D44F9DB921A40",
+  "notes": "Lisans kontrolu artik sadece process baslangicinda degil, pencere tekrar one geldiginde ve sag alttan geri acildiginda da calisir. Bu sayede uygulama trayde acik kalirken lisans iptali veya listeden silinmesi daha hizli yakalanir.",
   "publishedAt": "2026-07-11T00:00:00Z"
 }
