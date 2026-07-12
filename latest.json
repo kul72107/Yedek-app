@@ -1,8 +1,8 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "mandatory": true,
-  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.19.zip",
-  "sha256": "2498B29874DD2724C9F2015641F4238C206DDCDAFEC5117CA8DBDB4FE831FCE4",
-  "notes": "Premium mor tema korunarak guncelleme manifesti ve paket URL'si GitHub raw endpointine tasindi; CDN cache takilmalari sonraki surumlerde otomatik temizlenir.",
+  "url": "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.20.zip",
+  "sha256": "960C8504491E638F60987AAFBB8FCE536B04FD40B0908932A1AE48F2EFFFBDF8",
+  "notes": "Gorsel assetler daha gorunur hale getirildi: arka plan pattern opakligi artirildi, zippattern ust katmani eklendi, kartlar hafif seffaflastirildi ve warning/failed/lisans/secret ikonlari ilgili alanlarda kullanildi.",
   "publishedAt": "2026-07-12T00:00:00Z"
 }
