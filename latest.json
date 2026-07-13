@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.25",
+    "version":  "1.0.26",
     "mandatory":  true,
-    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.24.zip",
-    "sha256":  "6444B2B3488B2E18F9BD57C7CCBE72D6FE194B554ACBBE8BFBDEC81B52338FCC",
-    "notes":  "Lisans kontrolu performans ve guvenilirlik iyilestirmeleri: paralel liste indirme, HttpClient timeout, paylasilan baglanti, aktivasyon sinyali arka planda gonderme ve yerel lisans onbellegi temizleme butonu.",
-    "publishedAt":  "2026-07-12T08:19:04Z"
+    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.26.zip",
+    "sha256":  "BFBCED9C6598541BE4C26639AF95B0367AD2A5039BF365DBC07DB66FBBF727DC",
+    "notes":  "Yedekleme sirasinda popup icinde progressbar gosterimi eklendi. Manuel ve zamanlanmis yedeklerde ilerleme, dosya sayisi ve aktif dosya bilgisi gorunur.",
+    "publishedAt":  "2026-07-13T04:04:41Z"
 }
