@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.29",
+    "version":  "1.0.30",
     "mandatory":  true,
-    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.29.zip",
-    "sha256":  "CA1619CA8585F56B2ED52C6B7340763C4E715C693976692309B134F0D0F64F18",
-    "notes":  "Ayarlar ekranina ZIP/RAR arsiv formati secimi eklendi. RAR icin WinRAR/Rar.exe gerekir. Lisans e-posta alani Lisans ekraninda key ile birlikte dogrulanacak sekilde duzeltildi.",
-    "publishedAt":  "2026-07-17T11:28:00Z"
+    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.30.zip",
+    "sha256":  "0F6A2096C65FC0923075E61EFAF98DB9F38D5C5422175F0F634230DA3ED1FE7E",
+    "notes":  "Lisans ekranina key olmadan e-posta ile dogrulama eklendi. Admin paneli artik lisans satirinda bitis tarihi uretebilir; uygulama kalan sureyi bu tarihten okuyabilir.",
+    "publishedAt":  "2026-07-17T12:10:59Z"
 }
