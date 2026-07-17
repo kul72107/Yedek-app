@@ -1,8 +1,8 @@
-{
-    "version":  "1.0.26",
+﻿{
+    "version":  "1.0.28",
     "mandatory":  true,
-    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.26.zip",
-    "sha256":  "BFBCED9C6598541BE4C26639AF95B0367AD2A5039BF365DBC07DB66FBBF727DC",
-    "notes":  "Yedekleme sirasinda popup icinde progressbar gosterimi eklendi. Manuel ve zamanlanmis yedeklerde ilerleme, dosya sayisi ve aktif dosya bilgisi gorunur.",
-    "publishedAt":  "2026-07-13T04:04:41Z"
+    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.28.zip",
+    "sha256":  "0F05561E1AF8C81E1C8F345D4A83EED699A0E87FF85656A25EB16F70B8531685",
+    "notes":  "Lisans aktivasyonu key ve e-posta eslesmesiyle dogrulanir. Eski admin panel public Pages altindan kaldirildi ve yerel araca tasindi. Yedekleme oncesi uyari, tek seferlik yedek, mail raporu ve SQL servis kontrolu eklendi.",
+    "publishedAt":  "2026-07-17T09:37:43Z"
 }
