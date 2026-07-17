@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.28",
+    "version":  "1.0.29",
     "mandatory":  true,
-    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.28.zip",
-    "sha256":  "0F05561E1AF8C81E1C8F345D4A83EED699A0E87FF85656A25EB16F70B8531685",
-    "notes":  "Lisans aktivasyonu key ve e-posta eslesmesiyle dogrulanir. Eski admin panel public Pages altindan kaldirildi ve yerel araca tasindi. Yedekleme oncesi uyari, tek seferlik yedek, mail raporu ve SQL servis kontrolu eklendi.",
-    "publishedAt":  "2026-07-17T09:37:43Z"
+    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.29.zip",
+    "sha256":  "CA1619CA8585F56B2ED52C6B7340763C4E715C693976692309B134F0D0F64F18",
+    "notes":  "Ayarlar ekranina ZIP/RAR arsiv formati secimi eklendi. RAR icin WinRAR/Rar.exe gerekir. Lisans e-posta alani Lisans ekraninda key ile birlikte dogrulanacak sekilde duzeltildi.",
+    "publishedAt":  "2026-07-17T11:28:00Z"
 }
