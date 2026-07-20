@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.30",
+    "version":  "1.0.31",
     "mandatory":  true,
-    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.30.zip",
-    "sha256":  "0F6A2096C65FC0923075E61EFAF98DB9F38D5C5422175F0F634230DA3ED1FE7E",
-    "notes":  "Lisans ekranina key olmadan e-posta ile dogrulama eklendi. Admin paneli artik lisans satirinda bitis tarihi uretebilir; uygulama kalan sureyi bu tarihten okuyabilir.",
-    "publishedAt":  "2026-07-17T12:10:59Z"
+    "url":  "https://raw.githubusercontent.com/kul72107/Yedek-app/main/releases/ModernYedek-1.0.31.zip",
+    "sha256":  "CFE72FDAE55298B2D2B9862C39FD2A4C687A5F17C6A5BA44F06C2E28EB903938",
+    "notes":  "Simge durumuna kucultuldugunde tray ikonu uygulama ikonu ile ayni olacak sekilde duzeltildi. Lisans WhatsApp iletisim metni guncellendi.",
+    "publishedAt":  "2026-07-20T06:34:13Z"
 }
