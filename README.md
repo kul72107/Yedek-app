@@ -4,6 +4,7 @@ Bu repo Modern Yedek uygulamasinin otomatik guncelleme akisi icindir.
 
 Dosyalar:
 
+- `MYedekSetup.exe`: Son kullanici installer dosyasi. Calistiginda `latest.json` dosyasindan en guncel release ZIP'ini indirir, SHA256 ile dogrular ve kurar.
 - `latest.json`: Uygulamanin acilista okudugu manifest.
 - `releases/ModernYedek-*.zip`: Publish klasorunden uretilen uygulama paketleri.
 
